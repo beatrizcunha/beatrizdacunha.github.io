@@ -1,0 +1,84 @@
+
+
+<html lang="pt"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Portefolio</title>
+	<link href="./Bootstrap, from Twitter_files/bootstrap.css" rel="stylesheet">
+
+	<style type="text/css">
+		body {
+			text-align: center;
+			background-color: #cacaca;
+		}
+
+		.photo {
+			position: relative;
+		}
+		.title{
+			position: absolute;
+			bottom:20px;
+			left:0px;
+			text-align: center;
+			right:0px;
+			font-size:24px;
+			font-weight: bold;
+			color:#979797;
+		}
+		.photos {
+			margin:auto;
+			font-size:0px;
+		}
+		.sidebar-nav {
+        padding: 9 px ;
+      }
+	</style>
+<head>
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand">Beatriz da Cunha</a>
+          <div class="nav-collapse collapse">
+            <p class="navbar-text pull-right">
+            <ul class="nav">
+              <li class="nav"><a href="http://beatrizdacunha.github.io/home.html">Home</a></li>
+              <li class="active"><a href="http://globocom.github.io/bootstrap/examples/fluid.html#about">Portefolio</a></li>
+              <li><a href="http://globocom.github.io/bootstrap/examples/fluid.html#contact">Contactos</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+	<div class="photos xgallerify">
+		<div class="photo" style="display: inline-block; margin: 5px; margin-top:50px;">
+			<img src="http://oi67.tinypic.com/mh6b91.jpg" height="800px" width="600px">
+		</div>
+		<div class="photo" style="display: inline-block; margin: 5px; margin-top:50px;">
+			<img src="http://oi68.tinypic.com/2z9fn78.jpg" height="700px" width="800px">
+		</div>
+		<div class="photo" style="display: inline-block; margin: 10px;">
+			<img src="http://oi66.tinypic.com/inshkz.jpg" height="800px" width="700px">
+		</div>
+		<div class="photo" style="display: inline-block; margin: 10px; ">
+			<img src="http://oi67.tinypic.com/66i1kx.jpg" height="500px" width="700px">
+		</div>
+		<div class="photo" style="display: inline-block; margin: 10px;">
+			<img src="http://oi67.tinypic.com/52gao0.jpg" height="800px" width="600px">
+		</div>
+		<div class="photo" style="display: inline-block; margin: 10px;">
+			<img src="http://oi68.tinypic.com/52x9pv.jpg" height="800px" width="800px">
+		</div>
+		
+		
+	
+
+</body></html>
