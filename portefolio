@@ -50,8 +50,8 @@
             <p class="navbar-text pull-right">
             <ul class="nav">
               <li class="nav"><a href="http://beatrizdacunha.github.io/home.html">Home</a></li>
-              <li class="active"><a href="http://beatrizdacunha.github.io/portefolio">Portefolio</a></li>
-              <li><a href="http://globocom.github.io/bootstrap/examples/fluid.html#contact">Contactos</a></li>
+              <li class="active"><a href="http://beatrizdacunha.github.io/portefolio.html">Portefolio</a></li>
+              <li><a href="http://beatrizdacunha.github.io/contactos.html">Contactos</a></li>
             </ul>
           </div>
         </div>
